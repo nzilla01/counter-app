@@ -1,0 +1,24 @@
+body{
+ box-sizing:border-box;
+ font-family:fantasy ;
+margin-top:110px;
+background: url('https://images.unsplash.com/photo-1557854944-b3068916305e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y29mZmllfGVufDB8fDB8fA%3D%3D&w=1000&q=80');
+background-repeat: no-repeat;
+} 
+#btn1, #btn2, #btn3  {
+  height:80px;
+  border-radius:10px;
+  width: 100px;
+}
+#btn1{
+  background-color:yellow;
+}
+#btn2{
+  background:green 
+}
+#btn3{
+  background: red
+}
+h1, h2{
+  color: whitesmoke;
+}
